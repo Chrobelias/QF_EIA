@@ -1,3 +1,4 @@
+(set-info :status sat) ; swine result
 (set-logic ALL)
 (declare-fun bt30 () Bool)
 (declare-fun bt37 () Bool)

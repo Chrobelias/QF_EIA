@@ -1,3 +1,4 @@
+(set-info :status sat) ; swine result
 (set-logic ALL)
 (declare-fun i4 () Int)
 (declare-fun i1 () Int)

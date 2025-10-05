@@ -1,3 +1,4 @@
+(set-info :status unsat) ; swine result
 (set-logic ALL)
 (declare-fun it4 () Int)
 (declare-fun it3 () Int)
